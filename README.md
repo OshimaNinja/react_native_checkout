@@ -1,8 +1,8 @@
 # react_native_checkout
 
-Start Project
-`
+### Start Project
+```
 yarn install
 
 yarn start
-`
+```
